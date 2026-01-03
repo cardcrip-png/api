@@ -10,12 +10,12 @@ export default function handler(req, res) {
 
   // 🔒 BASE SIMPLES DE USUÁRIOS (hardcoded)
   const usuarios = {
-    pedro: {
-      valido: false,
+    admin: {
+      valido: true,
       temporestante: 180
     },
-    teste: {
-      valido: false,
+    rod: {
+      valido: true,
       temporestante: 0
     }
   };
