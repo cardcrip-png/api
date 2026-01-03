@@ -10,7 +10,7 @@ export default function handler(req, res) {
 
   // 🔒 BASE SIMPLES DE USUÁRIOS (hardcoded)
   const usuarios = {
-    admin: {
+    play7: {
       valido: true,
       temporestante: 180
     },
