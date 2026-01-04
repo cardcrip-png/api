@@ -14,7 +14,7 @@ export default function handler(req, res) {
       valido: true,
       temporestante: 180
     },
-    rod: {
+    guel: {
       valido: true,
       temporestante: 30
     }
