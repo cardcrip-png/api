@@ -16,7 +16,7 @@ export default function handler(req, res) {
     },
     guel: {
       valido: true,
-      temporestante: 30
+      temporestante: 0
     }
   };
 
